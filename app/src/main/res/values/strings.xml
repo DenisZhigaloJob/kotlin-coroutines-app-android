@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">KotlinCoroutines</string>
+    <string name="search_hing">Input pokemon name or id</string>
+    <string name="error_no_pokemon">Not Found</string>
+
+    <string name="details_title">Details</string>
+
+    <string name="pokemon_name">Name: %1$s</string>
+    <string name="pokemon_order">Order: %1$s</string>
+    <string name="pokemon_weight">Weight: %1$s</string>
+    <string name="pokemon_height">Height: %1$s</string>
+    <string name="pokemon_type">Type: %1$s</string>
+    <string name="pokemon_form">Form: %1$s</string>
+
 </resources>
